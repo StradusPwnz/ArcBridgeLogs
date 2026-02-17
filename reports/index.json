@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260217-194628-osmu",
+    "title": "Mon Mariachi",
+    "commanders": [
+      "Mon Mariachi"
+    ],
+    "dateStart": "2026-02-17T18:46:28.000Z",
+    "dateEnd": "2026-02-17T21:24:46.000Z",
+    "dateLabel": "17.2.2026, 19:46:28 - 17.2.2026, 22:24:46",
+    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260217-194628-osmu",
+    "summary": {
+      "borderlandsPct": 0.5,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 15,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 15,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 32
+    }
+  },
+  {
     "id": "20260216-194959-b55i",
     "title": "Strádùs",
     "commanders": [
