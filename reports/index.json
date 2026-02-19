@@ -1,5 +1,34 @@
 [
   {
+    "id": "20260218-192921-esgr",
+    "title": "Goon Anui, Stack On Tag Or Die",
+    "commanders": [
+      "Goon Anui",
+      "Stack On Tag Or Die"
+    ],
+    "dateStart": "2026-02-18T18:29:21.000Z",
+    "dateEnd": "2026-02-18T20:26:32.000Z",
+    "dateLabel": "18.2.2026, 19:29:21 - 18.2.2026, 21:26:32",
+    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260218-192921-esgr",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 28,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 5,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 13,
+      "avgEnemySize": 27
+    }
+  },
+  {
     "id": "20260217-194628-osmu",
     "title": "Mon Mariachi",
     "commanders": [
