@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260219-195624-4b1v",
+    "title": "Strádùs",
+    "commanders": [
+      "Strádùs"
+    ],
+    "dateStart": "2026-02-19T18:56:24.000Z",
+    "dateEnd": "2026-02-19T20:58:40.000Z",
+    "dateLabel": "19.2.2026, 19:56:24 - 19.2.2026, 21:58:40",
+    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260219-195624-4b1v",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 15,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 39,
+      "avgEnemySize": 43
+    }
+  },
+  {
     "id": "20260218-192921-esgr",
     "title": "Goon Anui, Stack On Tag Or Die",
     "commanders": [
