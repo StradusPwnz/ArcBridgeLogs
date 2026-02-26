@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260226-200311-yqt5",
+    "title": "Strádùs",
+    "commanders": [
+      "Strádùs"
+    ],
+    "dateStart": "2026-02-26T19:03:11.000Z",
+    "dateEnd": "2026-02-26T20:51:34.000Z",
+    "dateLabel": "26.2.2026, 20:03:11 - 26.2.2026, 21:51:34",
+    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260226-200311-yqt5",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 26,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 44
+    }
+  },
+  {
     "id": "20260219-195624-2c97",
     "title": "Strádùs",
     "commanders": [
