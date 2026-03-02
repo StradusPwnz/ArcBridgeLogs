@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260302-195358-5cnq",
+    "title": "Strádùs",
+    "commanders": [
+      "Strádùs"
+    ],
+    "dateStart": "2026-03-02T18:53:58.000Z",
+    "dateEnd": "2026-03-02T20:53:08.000Z",
+    "dateLabel": "2.3.2026, 19:53:58 - 2.3.2026, 21:53:08",
+    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260302-195358-5cnq",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 21,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 30,
+      "avgEnemySize": 33
+    }
+  },
+  {
     "id": "20260226-200311-yqt5",
     "title": "Strádùs",
     "commanders": [
