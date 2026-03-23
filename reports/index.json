@@ -1,378 +1,408 @@
-[
-  {
-    "id": "20260319-200538-tzuz",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-03-19T19:05:38.000Z",
-    "dateEnd": "2026-03-19T19:56:50.000Z",
-    "dateLabel": "19.3.2026, 20:05:38 - 19.3.2026, 20:56:50",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260319-200538-tzuz",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 18,
-          "color": "#ef4444"
-        }
-      ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 23
-    }
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Aurora",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260316-205922-56fm",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-03-16T19:59:22.000Z",
-    "dateEnd": "2026-03-16T20:56:26.000Z",
-    "dateLabel": "16.3.2026, 20:59:22 - 16.3.2026, 21:56:26",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260316-205922-56fm",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 16,
-          "color": "#22c55e"
-        }
+  "entries": [
+    {
+      "id": "20260323-194750-t05f",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 40,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260312-195058-iduy",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-03-12T18:50:58.000Z",
-    "dateEnd": "2026-03-12T20:31:21.000Z",
-    "dateLabel": "12.3.2026, 19:50:58 - 12.3.2026, 21:31:21",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260312-195058-iduy",
-    "summary": {
-      "borderlandsPct": 0.5925925925925926,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 14,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 11,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 2,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-03-23T18:47:50.000Z",
+      "dateEnd": "2026-03-23T20:28:30.000Z",
+      "dateLabel": "23.3.2026, 19:47:50 - 23.3.2026, 21:28:30",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260323-194750-t05f",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 42
+      }
+    },
+    {
+      "id": "20260319-200538-tzuz",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 22,
-      "avgEnemySize": 52
-    }
-  },
-  {
-    "id": "20260309-194733-p98v",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-03-09T18:47:33.000Z",
-    "dateEnd": "2026-03-09T20:15:48.000Z",
-    "dateLabel": "9.3.2026, 19:47:33 - 9.3.2026, 21:15:48",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260309-194733-p98v",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 14,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-19T19:05:38.000Z",
+      "dateEnd": "2026-03-19T19:56:50.000Z",
+      "dateLabel": "19.3.2026, 20:05:38 - 19.3.2026, 20:56:50",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260319-200538-tzuz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 23
+      }
+    },
+    {
+      "id": "20260316-205922-56fm",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 44,
-      "avgEnemySize": 23
-    }
-  },
-  {
-    "id": "20260305-200618-oozu",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-03-05T19:06:18.000Z",
-    "dateEnd": "2026-03-05T20:46:28.000Z",
-    "dateLabel": "5.3.2026, 20:06:18 - 5.3.2026, 21:46:28",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260305-200618-oozu",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 25,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-16T19:59:22.000Z",
+      "dateEnd": "2026-03-16T20:56:26.000Z",
+      "dateLabel": "16.3.2026, 20:59:22 - 16.3.2026, 21:56:26",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260316-205922-56fm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260312-195058-iduy",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 42,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260304-193944-dmc4",
-    "title": "Goon Anui",
-    "commanders": [
-      "Goon Anui"
-    ],
-    "dateStart": "2026-03-04T18:39:44.000Z",
-    "dateEnd": "2026-03-04T20:19:06.000Z",
-    "dateLabel": "4.3.2026, 19:39:44 - 4.3.2026, 21:19:06",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260304-193944-dmc4",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 12,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 9,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-03-12T18:50:58.000Z",
+      "dateEnd": "2026-03-12T20:31:21.000Z",
+      "dateLabel": "12.3.2026, 19:50:58 - 12.3.2026, 21:31:21",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260312-195058-iduy",
+      "summary": {
+        "borderlandsPct": 0.5925925925925926,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 52
+      }
+    },
+    {
+      "id": "20260309-194733-p98v",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260302-195358-5cnq",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-03-02T18:53:58.000Z",
-    "dateEnd": "2026-03-02T20:53:08.000Z",
-    "dateLabel": "2.3.2026, 19:53:58 - 2.3.2026, 21:53:08",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260302-195358-5cnq",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 21,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-09T18:47:33.000Z",
+      "dateEnd": "2026-03-09T20:15:48.000Z",
+      "dateLabel": "9.3.2026, 19:47:33 - 9.3.2026, 21:15:48",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260309-194733-p98v",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 23
+      }
+    },
+    {
+      "id": "20260305-200618-oozu",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 30,
-      "avgEnemySize": 33
-    }
-  },
-  {
-    "id": "20260226-200311-yqt5",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-02-26T19:03:11.000Z",
-    "dateEnd": "2026-02-26T20:51:34.000Z",
-    "dateLabel": "26.2.2026, 20:03:11 - 26.2.2026, 21:51:34",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260226-200311-yqt5",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 26,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-05T19:06:18.000Z",
+      "dateEnd": "2026-03-05T20:46:28.000Z",
+      "dateLabel": "5.3.2026, 20:06:18 - 5.3.2026, 21:46:28",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260305-200618-oozu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260304-193944-dmc4",
+      "title": "Goon Anui",
+      "commanders": [
+        "Goon Anui"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260219-195624-2c97",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-02-19T18:56:24.000Z",
-    "dateEnd": "2026-02-19T20:58:40.000Z",
-    "dateLabel": "19.2.2026, 19:56:24 - 19.2.2026, 21:58:40",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260219-195624-2c97",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 35,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-03-04T18:39:44.000Z",
+      "dateEnd": "2026-03-04T20:19:06.000Z",
+      "dateLabel": "4.3.2026, 19:39:44 - 4.3.2026, 21:19:06",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260304-193944-dmc4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260302-195358-5cnq",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260219-195624-wpb3",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-02-19T18:56:24.000Z",
-    "dateEnd": "2026-02-19T20:58:40.000Z",
-    "dateLabel": "19.2.2026, 19:56:24 - 19.2.2026, 21:58:40",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260219-195624-wpb3",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 35,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-03-02T18:53:58.000Z",
+      "dateEnd": "2026-03-02T20:53:08.000Z",
+      "dateLabel": "2.3.2026, 19:53:58 - 2.3.2026, 21:53:08",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260302-195358-5cnq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260226-200311-yqt5",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260219-195624-owyy",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-02-19T18:56:24.000Z",
-    "dateEnd": "2026-02-19T20:58:40.000Z",
-    "dateLabel": "19.2.2026, 19:56:24 - 19.2.2026, 21:58:40",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260219-195624-owyy",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 35,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-26T19:03:11.000Z",
+      "dateEnd": "2026-02-26T20:51:34.000Z",
+      "dateLabel": "26.2.2026, 20:03:11 - 26.2.2026, 21:51:34",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260226-200311-yqt5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260219-195624-2c97",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260219-195624-4b1v",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-02-19T18:56:24.000Z",
-    "dateEnd": "2026-02-19T20:58:40.000Z",
-    "dateLabel": "19.2.2026, 19:56:24 - 19.2.2026, 21:58:40",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260219-195624-4b1v",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 15,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-19T18:56:24.000Z",
+      "dateEnd": "2026-02-19T20:58:40.000Z",
+      "dateLabel": "19.2.2026, 19:56:24 - 19.2.2026, 21:58:40",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260219-195624-2c97",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 35,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260219-195624-wpb3",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260218-192921-esgr",
-    "title": "Goon Anui, Stack On Tag Or Die",
-    "commanders": [
-      "Goon Anui",
-      "Stack On Tag Or Die"
-    ],
-    "dateStart": "2026-02-18T18:29:21.000Z",
-    "dateEnd": "2026-02-18T20:26:32.000Z",
-    "dateLabel": "18.2.2026, 19:29:21 - 18.2.2026, 21:26:32",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260218-192921-esgr",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 28,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 5,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-19T18:56:24.000Z",
+      "dateEnd": "2026-02-19T20:58:40.000Z",
+      "dateLabel": "19.2.2026, 19:56:24 - 19.2.2026, 21:58:40",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260219-195624-wpb3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 35,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260219-195624-owyy",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 27
-    }
-  },
-  {
-    "id": "20260217-194628-osmu",
-    "title": "Mon Mariachi",
-    "commanders": [
-      "Mon Mariachi"
-    ],
-    "dateStart": "2026-02-17T18:46:28.000Z",
-    "dateEnd": "2026-02-17T21:24:46.000Z",
-    "dateLabel": "17.2.2026, 19:46:28 - 17.2.2026, 22:24:46",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260217-194628-osmu",
-    "summary": {
-      "borderlandsPct": 0.5,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 15,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 15,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-19T18:56:24.000Z",
+      "dateEnd": "2026-02-19T20:58:40.000Z",
+      "dateLabel": "19.2.2026, 19:56:24 - 19.2.2026, 21:58:40",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260219-195624-owyy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 35,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260219-195624-4b1v",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 32
-    }
-  },
-  {
-    "id": "20260216-194959-b55i",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-02-16T18:49:59.000Z",
-    "dateEnd": "2026-02-16T20:57:57.000Z",
-    "dateLabel": "16.2.2026, 19:49:59 - 16.2.2026, 21:57:57",
-    "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260216-194959-b55i",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 19,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 12,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-19T18:56:24.000Z",
+      "dateEnd": "2026-02-19T20:58:40.000Z",
+      "dateLabel": "19.2.2026, 19:56:24 - 19.2.2026, 21:58:40",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260219-195624-4b1v",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260218-192921-esgr",
+      "title": "Goon Anui, Stack On Tag Or Die",
+      "commanders": [
+        "Goon Anui",
+        "Stack On Tag Or Die"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 39
+      "dateStart": "2026-02-18T18:29:21.000Z",
+      "dateEnd": "2026-02-18T20:26:32.000Z",
+      "dateLabel": "18.2.2026, 19:29:21 - 18.2.2026, 21:26:32",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260218-192921-esgr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 27
+      }
+    },
+    {
+      "id": "20260217-194628-osmu",
+      "title": "Mon Mariachi",
+      "commanders": [
+        "Mon Mariachi"
+      ],
+      "dateStart": "2026-02-17T18:46:28.000Z",
+      "dateEnd": "2026-02-17T21:24:46.000Z",
+      "dateLabel": "17.2.2026, 19:46:28 - 17.2.2026, 22:24:46",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260217-194628-osmu",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260216-194959-b55i",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "dateStart": "2026-02-16T18:49:59.000Z",
+      "dateEnd": "2026-02-16T20:57:57.000Z",
+      "dateLabel": "16.2.2026, 19:49:59 - 16.2.2026, 21:57:57",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260216-194959-b55i",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 39
+      }
     }
-  }
-]
+  ]
+}
