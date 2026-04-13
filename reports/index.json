@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260413-200603-hlhx",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "dateStart": "2026-04-13T18:06:03.000Z",
+      "dateEnd": "2026-04-13T19:15:04.000Z",
+      "dateLabel": "13.4.2026, 20:06:03 - 13.4.2026, 21:15:04",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260413-200603-hlhx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260406-195448-g5zx",
       "title": "Strádùs",
       "commanders": [
