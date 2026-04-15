@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260415-202224-cucs",
+      "title": "Yoloola",
+      "commanders": [
+        "Yoloola"
+      ],
+      "dateStart": "2026-04-15T18:22:24.000Z",
+      "dateEnd": "2026-04-15T20:04:53.000Z",
+      "dateLabel": "15.4.2026, 20:22:24 - 15.4.2026, 22:04:53",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260415-202224-cucs",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260413-200603-hlhx",
       "title": "Strádùs",
       "commanders": [
