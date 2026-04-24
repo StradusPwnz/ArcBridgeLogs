@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260424-201333-pilf",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-04-24T18:13:33.000Z",
+      "dateEnd": "2026-04-24T19:22:44.000Z",
+      "dateLabel": "24.4.2026, 20:13:33 - 24.4.2026, 21:22:44",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260424-201333-pilf",
+      "summary": {
+        "borderlandsPct": 0.9565217391304348,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260423-202855-zxj5",
       "title": "Might Be Mariachi",
       "commanders": [
