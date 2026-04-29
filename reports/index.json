@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260429-200807-wccf",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-04-29T18:08:07.000Z",
+      "dateEnd": "2026-04-29T19:34:08.000Z",
+      "dateLabel": "29.4.2026, 20:08:07 - 29.4.2026, 21:34:08",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260429-200807-wccf",
+      "summary": {
+        "borderlandsPct": 0.9444444444444444,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260424-201333-pilf",
       "title": "Just Mad N Fluffy",
       "commanders": [
