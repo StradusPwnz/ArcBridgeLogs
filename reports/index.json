@@ -3,6 +3,59 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260501-010851-s561",
+      "title": "Mon Mariachi",
+      "commanders": [
+        "Mon Mariachi"
+      ],
+      "dateStart": "2026-04-30T23:08:51.000Z",
+      "dateEnd": "2026-05-01T18:27:38.000Z",
+      "dateLabel": "1.5.2026, 01:08:51 - 1.5.2026, 20:27:38",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260501-010851-s561",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Artsariiv",
+            "value": 5,
+            "color": "#64748b"
+          },
+          {
+            "name": "Siax the Corrupted",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Skorvald CM",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Ensolyss of the Endless Torment",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "MAMA",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Whispering Shadow CM",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260430-200741-zdpu",
       "title": "Just Mad N Fluffy, Strádùs",
       "commanders": [
