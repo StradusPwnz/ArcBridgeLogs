@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260501-200852-v6eq",
+      "title": "Mon Mariachi",
+      "commanders": [
+        "Mon Mariachi"
+      ],
+      "dateStart": "2026-05-01T18:08:52.000Z",
+      "dateEnd": "2026-05-01T20:03:57.000Z",
+      "dateLabel": "1.5.2026, 20:08:52 - 1.5.2026, 22:03:57",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260501-200852-v6eq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260501-010851-s561",
       "title": "Mon Mariachi",
       "commanders": [
