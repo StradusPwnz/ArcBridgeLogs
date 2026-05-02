@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260502-041317-1piw",
+      "title": "Tony The Tortoise",
+      "commanders": [
+        "Tony The Tortoise"
+      ],
+      "dateStart": "2026-05-02T02:13:17.000Z",
+      "dateEnd": "2026-05-02T03:01:30.000Z",
+      "dateLabel": "2.5.2026, 04:13:17 - 2.5.2026, 05:01:30",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260502-041317-1piw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260501-200852-v6eq",
       "title": "Mon Mariachi",
       "commanders": [
