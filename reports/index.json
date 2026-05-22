@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260522-201403-ov7g",
+      "title": "Sarah Carigan, Strádùs",
+      "commanders": [
+        "Sarah Carigan",
+        "Strádùs"
+      ],
+      "dateStart": "2026-05-22T18:14:03.000Z",
+      "dateEnd": "2026-05-22T19:27:48.000Z",
+      "dateLabel": "22.5.2026, 20:14:03 - 22.5.2026, 21:27:48",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260522-201403-ov7g",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260520-201039-u8s9",
       "title": "Sarah Carigan",
       "commanders": [
