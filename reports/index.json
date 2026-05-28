@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260528-202831-ne1s",
+      "title": "Serial Attuned",
+      "commanders": [
+        "Serial Attuned"
+      ],
+      "dateStart": "2026-05-28T18:28:31.000Z",
+      "dateEnd": "2026-05-28T19:35:01.000Z",
+      "dateLabel": "28.5.2026, 20:28:31 - 28.5.2026, 21:35:01",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260528-202831-ne1s",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260522-201403-ov7g",
       "title": "Sarah Carigan, Strádùs",
       "commanders": [
