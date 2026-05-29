@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260529-200805-kxc8",
+      "title": "Might Be Mariachi",
+      "commanders": [
+        "Might Be Mariachi"
+      ],
+      "dateStart": "2026-05-29T18:08:05.000Z",
+      "dateEnd": "2026-05-29T19:38:25.000Z",
+      "dateLabel": "29.5.2026, 20:08:05 - 29.5.2026, 21:38:25",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260529-200805-kxc8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260528-202831-ne1s",
       "title": "Serial Attuned",
       "commanders": [
