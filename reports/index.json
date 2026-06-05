@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260605-201228-ay3y",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-06-05T18:12:28.000Z",
+      "dateEnd": "2026-06-05T19:45:06.000Z",
+      "dateLabel": "5.6.2026, 20:12:28 - 5.6.2026, 21:45:06",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260605-201228-ay3y",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260529-200805-kxc8",
       "title": "Might Be Mariachi",
       "commanders": [
