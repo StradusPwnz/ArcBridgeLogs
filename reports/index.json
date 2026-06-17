@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260617-195248-ls2p",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-06-17T17:52:48.000Z",
+      "dateEnd": "2026-06-17T18:30:31.000Z",
+      "dateLabel": "17.6.2026, 19:52:48 - 17.6.2026, 20:30:31",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260617-195248-ls2p",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260612-201015-band",
       "title": "Just Mad N Fluffy",
       "commanders": [
