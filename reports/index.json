@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260621-202407-i7gv",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-06-21T18:24:07.000Z",
+      "dateEnd": "2026-06-21T19:17:02.000Z",
+      "dateLabel": "21.6.2026, 20:24:07 - 21.6.2026, 21:17:02",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260621-202407-i7gv",
+      "summary": {
+        "borderlandsPct": 0.9130434782608695,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260619-200740-b6ft",
       "title": "Just Mad N Fluffy",
       "commanders": [
