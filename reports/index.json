@@ -1,8 +1,31 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "slate-silver",
   "glassSurfaces": false,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260701-200554-5f6j",
+      "title": "Grabnebelfûrstin",
+      "commanders": [
+        "Grabnebelfûrstin"
+      ],
+      "dateStart": "2026-07-01T18:05:54.000Z",
+      "dateEnd": "2026-07-01T19:56:49.000Z",
+      "dateLabel": "1.7.2026, 20:05:54 - 1.7.2026, 21:56:49",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260701-200554-5f6j",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 39
+      }
+    },
     {
       "id": "20260621-202407-i7gv",
       "title": "Just Mad N Fluffy",
