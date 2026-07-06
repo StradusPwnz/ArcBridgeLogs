@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260706-194154-2ii9",
+      "title": "Agathor Hammerfall, Âshlêy",
+      "commanders": [
+        "Agathor Hammerfall",
+        "Âshlêy"
+      ],
+      "dateStart": "2026-07-06T17:41:54.000Z",
+      "dateEnd": "2026-07-06T19:20:05.000Z",
+      "dateLabel": "6.7.2026, 19:41:54 - 6.7.2026, 21:20:05",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260706-194154-2ii9",
+      "summary": {
+        "borderlandsPct": 0.13636363636363635,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 61
+      }
+    },
+    {
       "id": "20260703-201259-33m3",
       "title": "Sarah Carigan",
       "commanders": [
