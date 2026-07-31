@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-220948-zssd",
+      "title": "Devina X, Time Pr Xxvii",
+      "commanders": [
+        "Devina X",
+        "Time Pr Xxvii"
+      ],
+      "dateStart": "2026-07-31T20:09:48.000Z",
+      "dateEnd": "2026-07-31T21:09:47.000Z",
+      "dateLabel": "31.7.2026, 22:09:48 - 31.7.2026, 23:09:47",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260731-220948-zssd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260731-201328-42zw",
       "title": "Just Mad N Fluffy",
       "commanders": [
