@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260805-204828-fndm",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "guild": {
+        "id": "F8E791D2-9E6B-EB11-81B7-C3B1C0E42B51",
+        "name": "Beyond The Aurora",
+        "tag": "ARTS"
+      },
+      "dateStart": "2026-08-05T18:48:28.000Z",
+      "dateEnd": "2026-08-05T20:00:57.000Z",
+      "dateLabel": "5.8.2026, 20:48:28 - 5.8.2026, 22:00:57",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260805-204828-fndm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260804-200426-wtjh",
       "title": "Tybalt Oakenshield",
       "commanders": [
