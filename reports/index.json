@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260812-201027-ckiv",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-08-12T18:10:27.000Z",
+      "dateEnd": "2026-08-12T19:50:33.000Z",
+      "dateLabel": "12.8.2026, 20:10:27 - 12.8.2026, 21:50:33",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260812-201027-ckiv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260810-211914-wrgb",
       "title": "Grabnebelfûrstin",
       "commanders": [
