@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-160741-mfee",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-08-15T14:07:41.000Z",
+      "dateEnd": "2026-08-15T15:12:47.000Z",
+      "dateLabel": "15.8.2026, 16:07:41 - 15.8.2026, 17:12:47",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260815-160741-mfee",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 62
+      }
+    },
+    {
       "id": "20260812-221027-e673",
       "title": "Sarah Carigan",
       "commanders": [
