@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260821-201451-bk11",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-08-21T18:14:51.000Z",
+      "dateEnd": "2026-08-21T19:24:31.331Z",
+      "dateLabel": "21.8.2026, 20:14:51 - 21.8.2026, 21:24:31",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260821-201451-bk11",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260815-160741-mfee",
       "title": "Just Mad N Fluffy",
       "commanders": [
