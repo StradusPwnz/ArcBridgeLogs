@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260828-200802-lhad",
+      "title": "Just Mad N Fluffy, Strádùs",
+      "commanders": [
+        "Just Mad N Fluffy",
+        "Strádùs"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-08-28T18:08:02.000Z",
+      "dateEnd": "2026-08-28T19:04:15.801Z",
+      "dateLabel": "28.8.2026, 20:08:02 - 28.8.2026, 21:04:15",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260828-200802-lhad",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 53,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260821-201451-bk11",
       "title": "Just Mad N Fluffy",
       "commanders": [
