@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-200802-x9ga",
+      "title": "Grabnebelfûrstin",
+      "commanders": [
+        "Grabnebelfûrstin"
+      ],
+      "guild": {
+        "id": "F8E791D2-9E6B-EB11-81B7-C3B1C0E42B51",
+        "name": "Beyond The Aurora",
+        "tag": "ARTS"
+      },
+      "dateStart": "2026-08-31T18:08:02.000Z",
+      "dateEnd": "2026-08-31T18:45:22.381Z",
+      "dateLabel": "31.8.2026, 20:08:02 - 31.8.2026, 20:45:22",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260831-200802-x9ga",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 50,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260828-200802-lhad",
       "title": "Just Mad N Fluffy, Strádùs",
       "commanders": [
