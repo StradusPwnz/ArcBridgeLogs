@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-201026-tdr2",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-09-09T18:10:26.000Z",
+      "dateEnd": "2026-09-09T19:52:14.359Z",
+      "dateLabel": "9.9.2026, 20:10:26 - 9.9.2026, 21:52:14",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260909-201026-tdr2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260904-200840-9v24",
       "title": "Just Mad N Fluffy",
       "commanders": [
