@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-201534-5ajf",
+      "title": "Sundae Spoon",
+      "commanders": [
+        "Sundae Spoon"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-09-10T18:15:34.000Z",
+      "dateEnd": "2026-09-10T19:02:19.831Z",
+      "dateLabel": "10.9.2026, 20:15:34 - 10.9.2026, 21:02:19",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260910-201534-5ajf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260909-201026-tdr2",
       "title": "Sarah Carigan",
       "commanders": [
