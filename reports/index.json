@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260911-200955-gbmw",
+      "title": "Me My Clones And I",
+      "commanders": [
+        "Me My Clones And I"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-09-11T18:09:55.000Z",
+      "dateEnd": "2026-09-11T20:43:43.304Z",
+      "dateLabel": "11.9.2026, 20:09:55 - 11.9.2026, 22:43:43",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260911-200955-gbmw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260910-201534-5ajf",
       "title": "Sundae Spoon",
       "commanders": [
