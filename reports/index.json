@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-201342-prar",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-09-18T18:13:42.000Z",
+      "dateEnd": "2026-09-18T19:16:34.499Z",
+      "dateLabel": "18.9.2026, 20:13:42 - 18.9.2026, 21:16:34",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260918-201342-prar",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 36,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260911-200955-gbmw",
       "title": "Me My Clones And I",
       "commanders": [
