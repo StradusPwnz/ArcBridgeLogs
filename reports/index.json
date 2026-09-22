@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260922-222159-9roj",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-09-22T20:21:59.000Z",
+      "dateEnd": "2026-09-22T21:30:55.434Z",
+      "dateLabel": "22.9.2026, 22:21:59 - 22.9.2026, 23:30:55",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20260922-222159-9roj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260922-200927-y0vq",
       "title": "Tybalt Oakenshield",
       "commanders": [
