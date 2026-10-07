@@ -3,7 +3,40 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261007-173113-kv45",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-10-07T15:31:13.000Z",
+      "dateEnd": "2026-10-07T16:42:50.177Z",
+      "dateLabel": "7.10.2026, 17:31:13 - 7.10.2026, 18:42:50",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261007-173113-kv45",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 43
+      }
+    },
     {
       "id": "20261002-202326-h3y1",
       "title": "Just Mad N Fluffy",
