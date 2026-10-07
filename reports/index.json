@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261007-194504-47ej",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "guild": {
+        "id": "F8E791D2-9E6B-EB11-81B7-C3B1C0E42B51",
+        "name": "Beyond The Aurora",
+        "tag": "ARTS"
+      },
+      "dateStart": "2026-10-07T17:45:04.000Z",
+      "dateEnd": "2026-10-07T18:39:01.698Z",
+      "dateLabel": "7.10.2026, 19:45:04 - 7.10.2026, 20:39:01",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261007-194504-47ej",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 66
+      }
+    },
+    {
       "id": "20261007-173113-kv45",
       "title": "Präk",
       "commanders": [
