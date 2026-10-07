@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261007-214230-f849",
+      "title": "Enemy Thorn, Strádùs",
+      "commanders": [
+        "Enemy Thorn",
+        "Strádùs"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-07T19:42:30.000Z",
+      "dateEnd": "2026-10-07T20:47:22.821Z",
+      "dateLabel": "7.10.2026, 21:42:30 - 7.10.2026, 22:47:22",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261007-214230-f849",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0.11538461538461539,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20261007-194504-47ej",
       "title": "Sarah Carigan",
       "commanders": [
