@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261008-201343-pcas",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-08T18:13:43.000Z",
+      "dateEnd": "2026-10-08T19:28:52.275Z",
+      "dateLabel": "8.10.2026, 20:13:43 - 8.10.2026, 21:28:52",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261008-201343-pcas",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20261007-214230-f849",
       "title": "Enemy Thorn, Strádùs",
       "commanders": [
