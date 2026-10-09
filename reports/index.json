@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261009-222206-ven4",
+      "title": "Elli Fánt, Fenrís Frostwolf",
+      "commanders": [
+        "Elli Fánt",
+        "Fenrís Frostwolf"
+      ],
+      "guild": {
+        "id": "916620F4-B0F7-F011-BB23-060921DAD2F7",
+        "name": "Whooo Let The Dogs Out",
+        "tag": "DOGS"
+      },
+      "dateStart": "2026-10-09T20:22:06.000Z",
+      "dateEnd": "2026-10-09T22:29:37.846Z",
+      "dateLabel": "9.10.2026, 22:22:06 - 10.10.2026, 00:29:37",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261009-222206-ven4",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20261009-201442-kg2d",
       "title": "Ijustwantedtoblock, Zawakiwa",
       "commanders": [
