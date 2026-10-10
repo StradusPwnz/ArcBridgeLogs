@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261010-211056-luox",
+      "title": "Ijmpo",
+      "commanders": [
+        "Ijmpo"
+      ],
+      "guild": {
+        "id": "B65DAD56-25FB-EE11-BA1F-06F2763BE7D0",
+        "name": "Ruthless Division",
+        "tag": "RD"
+      },
+      "dateStart": "2026-10-10T19:10:56.000Z",
+      "dateEnd": "2026-10-10T20:16:32.056Z",
+      "dateLabel": "10.10.2026, 21:10:56 - 10.10.2026, 22:16:32",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261010-211056-luox",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20261009-222206-ven4",
       "title": "Elli Fánt, Fenrís Frostwolf",
       "commanders": [
