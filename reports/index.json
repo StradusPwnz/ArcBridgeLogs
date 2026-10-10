@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261010-230105-bxfj",
+      "title": "M O L O T O F",
+      "commanders": [
+        "M O L O T O F"
+      ],
+      "guild": {
+        "id": "80B267D0-0B67-EF11-81AA-F91D67309373",
+        "name": "Molotof Is Poorest Wvw Player",
+        "tag": "POOR"
+      },
+      "dateStart": "2026-10-10T21:01:05.000Z",
+      "dateEnd": "2026-10-10T21:35:24.952Z",
+      "dateLabel": "10.10.2026, 23:01:05 - 10.10.2026, 23:35:24",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261010-230105-bxfj",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 46,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20261010-211056-luox",
       "title": "Ijmpo",
       "commanders": [
