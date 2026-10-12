@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.2"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261012-183501-i9o5",
+      "title": "Phenom I",
+      "commanders": [
+        "Phenom I"
+      ],
+      "guild": {
+        "id": "907116C8-FADD-EA11-81B7-AD7CCA945DAC",
+        "name": "Wait What Color Are We",
+        "tag": "LOST"
+      },
+      "dateStart": "2026-10-12T16:35:01.000Z",
+      "dateEnd": "2026-10-12T17:04:51.435Z",
+      "dateLabel": "12.10.2026, 18:35:01 - 12.10.2026, 19:04:51",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261012-183501-i9o5",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 57
+      }
+    },
     {
       "id": "20261010-230105-bxfj",
       "title": "M O L O T O F",
