@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261013-201459-rdb3",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-10-13T18:14:59.000Z",
+      "dateEnd": "2026-10-13T19:20:35.486Z",
+      "dateLabel": "13.10.2026, 20:14:59 - 13.10.2026, 21:20:35",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261013-201459-rdb3",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0.65,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20261012-183501-i9o5",
       "title": "Phenom I",
       "commanders": [
