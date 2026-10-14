@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261014-200812-ueys",
+      "title": "Sarah Carigan, Zyxjan",
+      "commanders": [
+        "Sarah Carigan",
+        "Zyxjan"
+      ],
+      "guild": {
+        "id": "916620F4-B0F7-F011-BB23-060921DAD2F7",
+        "name": "Whooo Let The Dogs Out",
+        "tag": "DOGS"
+      },
+      "dateStart": "2026-10-14T18:08:12.000Z",
+      "dateEnd": "2026-10-14T19:48:14.114Z",
+      "dateLabel": "14.10.2026, 20:08:12 - 14.10.2026, 21:48:14",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261014-200812-ueys",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0.47368421052631576,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20261013-201459-rdb3",
       "title": "Präk",
       "commanders": [
