@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.6"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261015-201405-q27i",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-15T18:14:05.000Z",
+      "dateEnd": "2026-10-15T19:38:19.610Z",
+      "dateLabel": "15.10.2026, 20:14:05 - 15.10.2026, 21:38:19",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261015-201405-q27i",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 45
+      }
+    },
     {
       "id": "20261014-222320-k3vb",
       "title": "Fenrís Frostwolf",
