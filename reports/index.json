@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261016-200956-vdx7",
+      "title": "Ashy Senpai, Jimpoos",
+      "commanders": [
+        "Ashy Senpai",
+        "Jimpoos"
+      ],
+      "guild": {
+        "id": "52F65E07-546E-F111-BB23-067697280D5B",
+        "name": "We Are The Problem",
+        "tag": "GG"
+      },
+      "dateStart": "2026-10-16T18:09:56.000Z",
+      "dateEnd": "2026-10-16T18:59:56.974Z",
+      "dateLabel": "16.10.2026, 20:09:56 - 16.10.2026, 20:59:56",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261016-200956-vdx7",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20261015-225420-twm3",
       "title": "M Ó L Ó T Ó F, Präk",
       "commanders": [
