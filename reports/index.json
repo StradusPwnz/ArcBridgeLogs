@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261016-223808-26uc",
+      "title": "Enemy Thorn",
+      "commanders": [
+        "Enemy Thorn"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-16T20:38:08.000Z",
+      "dateEnd": "2026-10-16T21:49:57.800Z",
+      "dateLabel": "16.10.2026, 22:38:08 - 16.10.2026, 23:49:57",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261016-223808-26uc",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0.17647058823529413,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 62
+      }
+    },
+    {
       "id": "20261016-200956-vdx7",
       "title": "Ashy Senpai, Jimpoos",
       "commanders": [
