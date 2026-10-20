@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261020-180201-wcth",
+      "title": "Phenom I",
+      "commanders": [
+        "Phenom I"
+      ],
+      "guild": {
+        "id": "D01E426A-0E88-EF11-81AA-F91D67309373",
+        "name": "We Only Do Daily",
+        "tag": "deli"
+      },
+      "dateStart": "2026-10-20T16:02:01.000Z",
+      "dateEnd": "2026-10-20T17:01:57.882Z",
+      "dateLabel": "20.10.2026, 18:02:01 - 20.10.2026, 19:01:57",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261020-180201-wcth",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20261019-225139-pqcy",
       "title": "Enemy Thorn",
       "commanders": [
