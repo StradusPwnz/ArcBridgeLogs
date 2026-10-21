@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261021-201421-tyn5",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-10-21T18:14:21.000Z",
+      "dateEnd": "2026-10-21T19:32:42.724Z",
+      "dateLabel": "21.10.2026, 20:14:21 - 21.10.2026, 21:32:42",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261021-201421-tyn5",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20261020-180201-wcth",
       "title": "Phenom I",
       "commanders": [
