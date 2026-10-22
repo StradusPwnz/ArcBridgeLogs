@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261022-191724-lb2w",
+      "title": "Tybalt Oakenshield, Zyxjan",
+      "commanders": [
+        "Tybalt Oakenshield",
+        "Zyxjan"
+      ],
+      "guild": {
+        "id": "57B6AE9E-6472-EF11-81B8-D206D0C515D3",
+        "name": "Devilmouth",
+        "tag": "ZYX"
+      },
+      "dateStart": "2026-10-22T17:17:24.000Z",
+      "dateEnd": "2026-10-22T18:39:17.788Z",
+      "dateLabel": "22.10.2026, 19:17:24 - 22.10.2026, 20:39:17",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261022-191724-lb2w",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20261021-201421-tyn5",
       "title": "Sarah Carigan",
       "commanders": [
