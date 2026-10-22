@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261022-203652-a14k",
+      "title": "Tybalt Oakenshield",
+      "commanders": [
+        "Tybalt Oakenshield"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-22T18:36:52.000Z",
+      "dateEnd": "2026-10-22T19:51:34.354Z",
+      "dateLabel": "22.10.2026, 20:36:52 - 22.10.2026, 21:51:34",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261022-203652-a14k",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20261022-192314-duvu",
       "title": "Zyxjan",
       "commanders": [
