@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261022-192314-duvu",
+      "title": "Zyxjan",
+      "commanders": [
+        "Zyxjan"
+      ],
+      "guild": {
+        "id": "57B6AE9E-6472-EF11-81B8-D206D0C515D3",
+        "name": "Devilmouth",
+        "tag": "ZYX"
+      },
+      "dateStart": "2026-10-22T17:23:14.000Z",
+      "dateEnd": "2026-10-22T18:29:26.066Z",
+      "dateLabel": "22.10.2026, 19:23:14 - 22.10.2026, 20:29:26",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261022-192314-duvu",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20261021-201421-tyn5",
       "title": "Sarah Carigan",
       "commanders": [
