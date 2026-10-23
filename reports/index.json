@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261023-200952-j7b0",
+      "title": "Âshlêy, Just Mad N Fluffy",
+      "commanders": [
+        "Âshlêy",
+        "Just Mad N Fluffy"
+      ],
+      "guild": {
+        "id": "52F65E07-546E-F111-BB23-067697280D5B",
+        "name": "We Are The Problem",
+        "tag": "GG"
+      },
+      "dateStart": "2026-10-23T18:09:52.000Z",
+      "dateEnd": "2026-10-23T19:46:49.506Z",
+      "dateLabel": "23.10.2026, 20:09:52 - 23.10.2026, 21:46:49",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261023-200952-j7b0",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20261022-203652-a14k",
       "title": "Tybalt Oakenshield",
       "commanders": [
