@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261026-220641-2bnr",
+      "title": "Enemy Thorn",
+      "commanders": [
+        "Enemy Thorn"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-26T21:06:41.000Z",
+      "dateEnd": "2026-10-26T21:56:10.608Z",
+      "dateLabel": "26.10.2026, 22:06:41 - 26.10.2026, 22:56:10",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261026-220641-2bnr",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20261023-200952-j7b0",
       "title": "Âshlêy, Just Mad N Fluffy",
       "commanders": [
