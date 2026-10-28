@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261028-195757-2o55",
+      "title": "Ijmpo",
+      "commanders": [
+        "Ijmpo"
+      ],
+      "guild": {
+        "id": "B65DAD56-25FB-EE11-BA1F-06F2763BE7D0",
+        "name": "Ruthless Division",
+        "tag": "RD"
+      },
+      "dateStart": "2026-10-28T18:57:57.000Z",
+      "dateEnd": "2026-10-28T20:48:18.893Z",
+      "dateLabel": "28.10.2026, 19:57:57 - 28.10.2026, 21:48:18",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261028-195757-2o55",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 63
+      }
+    },
     {
       "id": "20261027-200401-nz81",
       "title": "Phenom I",
