@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261029-220720-2krj",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "7ADEF17B-70E8-EE11-8467-122223FBD123",
+        "name": "Sanguis Vindictae",
+        "tag": "sV"
+      },
+      "dateStart": "2026-10-29T21:07:20.000Z",
+      "dateEnd": "2026-10-29T21:54:03.986Z",
+      "dateLabel": "29.10.2026, 22:07:20 - 29.10.2026, 22:54:03",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261029-220720-2krj",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 62
+      }
+    },
+    {
       "id": "20261029-195357-9qx9",
       "title": "Strádùs",
       "commanders": [
