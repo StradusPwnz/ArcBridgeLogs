@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261029-195357-9qx9",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-29T18:53:57.000Z",
+      "dateEnd": "2026-10-29T20:03:43.733Z",
+      "dateLabel": "29.10.2026, 19:53:57 - 29.10.2026, 21:03:43",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261029-195357-9qx9",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20261028-195757-2o55",
       "title": "Ijmpo",
       "commanders": [
