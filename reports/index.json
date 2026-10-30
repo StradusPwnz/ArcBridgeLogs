@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261030-190834-znbk",
+      "title": "Âshlêy",
+      "commanders": [
+        "Âshlêy"
+      ],
+      "guild": {
+        "id": "52F65E07-546E-F111-BB23-067697280D5B",
+        "name": "We Are The Problem",
+        "tag": "GG"
+      },
+      "dateStart": "2026-10-30T18:08:34.000Z",
+      "dateEnd": "2026-10-30T18:55:14.664Z",
+      "dateLabel": "30.10.2026, 19:08:34 - 30.10.2026, 19:55:14",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261030-190834-znbk",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20261029-220720-2krj",
       "title": "Präk",
       "commanders": [
