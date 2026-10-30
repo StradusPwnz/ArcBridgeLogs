@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261030-223453-574x",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "CBF9E9C2-1252-4870-AF85-E2B32C050F94",
+        "name": "Esoteriks",
+        "tag": "Eso"
+      },
+      "dateStart": "2026-10-30T21:34:53.000Z",
+      "dateEnd": "2026-10-30T22:33:29.350Z",
+      "dateLabel": "30.10.2026, 22:34:53 - 30.10.2026, 23:33:29",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261030-223453-574x",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 63
+      }
+    },
+    {
       "id": "20261030-190834-znbk",
       "title": "Âshlêy",
       "commanders": [
