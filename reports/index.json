@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261103-195929-odvo",
+      "title": "Ijustwantedtoblock",
+      "commanders": [
+        "Ijustwantedtoblock"
+      ],
+      "guild": {
+        "id": "52F65E07-546E-F111-BB23-067697280D5B",
+        "name": "We Are The Problem",
+        "tag": "GG"
+      },
+      "dateStart": "2026-11-03T18:59:29.000Z",
+      "dateEnd": "2026-11-03T19:39:31.790Z",
+      "dateLabel": "3.11.2026, 19:59:29 - 3.11.2026, 20:39:31",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261103-195929-odvo",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 31,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20261102-224355-x7zw",
       "title": "Enemy Thorn",
       "commanders": [
