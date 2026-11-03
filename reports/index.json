@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261103-225300-wcz5",
+      "title": "Enemy Thorn",
+      "commanders": [
+        "Enemy Thorn"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-11-03T21:53:00.000Z",
+      "dateEnd": "2026-11-03T22:55:47.716Z",
+      "dateLabel": "3.11.2026, 22:53:00 - 3.11.2026, 23:55:47",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261103-225300-wcz5",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 32
+      }
+    },
     {
       "id": "20261103-195929-odvo",
       "title": "Ijustwantedtoblock",
