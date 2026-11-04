@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261104-223315-fzre",
+      "title": "Ijmpo",
+      "commanders": [
+        "Ijmpo"
+      ],
+      "guild": {
+        "id": "B65DAD56-25FB-EE11-BA1F-06F2763BE7D0",
+        "name": "Ruthless Division",
+        "tag": "RD"
+      },
+      "dateStart": "2026-11-04T21:33:15.000Z",
+      "dateEnd": "2026-11-04T22:45:55.334Z",
+      "dateLabel": "4.11.2026, 22:33:15 - 4.11.2026, 23:45:55",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261104-223315-fzre",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20261104-200742-hp8q",
       "title": "Sarah Carigan",
       "commanders": [
