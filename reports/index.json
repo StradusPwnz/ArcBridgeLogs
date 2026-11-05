@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261105-220446-gj2h",
+      "title": "Phenom I",
+      "commanders": [
+        "Phenom I"
+      ],
+      "guild": {
+        "id": "08F57AD2-473C-E511-A343-AC162DAE0BED",
+        "name": "Heavy Loot Bag",
+        "tag": "Salt"
+      },
+      "dateStart": "2026-11-05T21:04:46.000Z",
+      "dateEnd": "2026-11-05T22:12:57.603Z",
+      "dateLabel": "5.11.2026, 22:04:46 - 5.11.2026, 23:12:57",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261105-220446-gj2h",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20261105-200811-771w",
       "title": "Strádùs",
       "commanders": [
