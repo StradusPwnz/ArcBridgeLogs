@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261105-200811-771w",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-11-05T19:08:11.000Z",
+      "dateEnd": "2026-11-05T19:57:31.804Z",
+      "dateLabel": "5.11.2026, 20:08:11 - 5.11.2026, 20:57:31",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261105-200811-771w",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 34,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20261104-223315-fzre",
       "title": "Ijmpo",
       "commanders": [
