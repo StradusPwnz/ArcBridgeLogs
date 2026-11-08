@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.22.12"
   },
   "entries": [
+    {
+      "id": "20261108-201216-9r1v",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-11-08T19:12:16.000Z",
+      "dateEnd": "2026-11-08T20:06:04.684Z",
+      "dateLabel": "8.11.2026, 20:12:16 - 8.11.2026, 21:06:04",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261108-201216-9r1v",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 36
+      }
+    },
     {
       "id": "20261106-214840-nglv",
       "title": "Just Mad N Fluffy, Strádùs",
