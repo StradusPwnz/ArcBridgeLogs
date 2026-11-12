@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.12"
+    "version": "3.23.0"
   },
   "entries": [
+    {
+      "id": "20261112-201210-6prh",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-11-12T19:12:10.000Z",
+      "dateEnd": "2026-11-12T20:33:26.609Z",
+      "dateLabel": "12.11.2026, 20:12:10 - 12.11.2026, 21:33:26",
+      "url": "https://StradusPwnz.github.io/ArcBridgeLogs/?report=20261112-201210-6prh",
+      "publishedBy": "StradusPwnz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 18,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20261108-201216-c6i3",
       "title": "Just Mad N Fluffy",
